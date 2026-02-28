@@ -27,10 +27,9 @@ How do the 3 store locations compare in performance?
 
 📊 Key Metrics
 
-Metric                           Value
-Total Sales                      £20,254
-Total Foot Fall                  4,331 customers
-Avg Bill / Person                £4.68
+Total Sales                      £20,254,
+Total Foot Fall                  4,331 customers,
+Avg Bill / Person                £4.68,
 Avg Order                        1.45 items
 
 💡 Key Insights
