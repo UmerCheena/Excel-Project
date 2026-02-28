@@ -15,24 +15,26 @@ $4.69 Average Transaction Value
 
 ☕ Coffee Shop Sales Dashboard | Excel Project
 
-📌 Project Overview
+📌 Project Overview:
+
 An interactive Excel dashboard analyzing sales performance of a coffee shop chain across 3 NYC locations — built to uncover trends in customer behavior, product performance, and revenue patterns.
 
-🎯 Objective
+🎯 Objective:
+
 To answer key business questions using data analysis and visualization:
 
 When are the peak sales hours and days?
 Which products and categories generate the most revenue?
 How do the 3 store locations compare in performance?
 
-📊 Key Metrics
+📊 Key Metrics:
 
 Total Sales                      £20,254,
 Total Foot Fall                  4,331 customers,
 Avg Bill / Person                £4.68,
 Avg Order                        1.45 items
 
-💡 Key Insights
+💡 Key Insights:
 
 📈 Peak hours are 9–10 AM across all locations
 📅 Monday–Wednesday are the busiest days
@@ -40,7 +42,7 @@ Avg Order                        1.45 items
 🍵 Tea is the highest revenue category at £7,569
 🏪 Hell's Kitchen leads in sales at £6,900
 
-🛠️ Tools & Techniques Used
+🛠️ Tools & Techniques Used:
 
 Microsoft Excel
 Pivot Tables
@@ -49,6 +51,6 @@ Charts & Visualizations
 Conditional Formatting
 Dashboard Design
 
-📬 Contact
+📬 Contact:
 
 🔗 LinkedIn: [https://www.linkedin.com/in/umer-cheena-sp20bcs012/]([url](https://www.linkedin.com/in/umer-cheena-sp20bcs012/))
