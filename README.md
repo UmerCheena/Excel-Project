@@ -52,4 +52,4 @@ Dashboard Design
 
 📬 Contact
 
-🔗 LinkedIn: []([url](https://www.linkedin.com/in/umer-cheena-sp20bcs012/))
+🔗 LinkedIn: [https://www.linkedin.com/in/umer-cheena-sp20bcs012/]([url](https://www.linkedin.com/in/umer-cheena-sp20bcs012/))
