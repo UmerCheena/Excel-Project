@@ -44,15 +44,15 @@ Avg Order                        1.45 items
 
 🛠️ Tools & Techniques Used:
 
-Microsoft Excel,
+Microsoft Excel
 
-Pivot Tables,
+Pivot Tables
 
-Slicers & Filters,
+Slicers & Filters
 
-Charts & Visualizations,
+Charts & Visualizations
 
-Conditional Formatting,
+Conditional Formatting
 
 Dashboard Design
 
