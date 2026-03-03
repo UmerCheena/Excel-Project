@@ -56,8 +56,4 @@ Conditional Formatting
 
 Dashboard Design
 
-📬 Contact:
-
-🔗 LinkedIn: [Profile]([url](https://www.linkedin.com/in/umer-cheena-sp20bcs012/))
-
 [Video](https://github.com/user-attachments/assets/4c62b9c7-6e23-476f-be41-768c82e07491)
